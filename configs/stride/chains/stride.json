@@ -3,7 +3,7 @@
   "value": {
     "key": "nefsim",
     "chain-id": "STRIDE-TESTNET-4",
-    "rpc-addr": "http://206.189.10.97:26657",
+    "rpc-addr": "http://194.195.245.139:16657",
     "account-prefix": "stride",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
