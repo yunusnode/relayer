@@ -3,7 +3,7 @@
   "value": {
     "key": "nefsim",
     "chain-id": "GAIA",
-    "rpc-addr": "http://68.183.7.173:23657",
+    "rpc-addr": "http://194.195.245.139:23657",
     "account-prefix": "cosmos",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
